@@ -1,2 +1,2 @@
-# Edge_Prediction
-Edge prediction using OpenCV with the following detectors: Sobel, Canny and Laplace
+# Edge Detection
+Edge detection using OpenCV with the following detectors: Sobel, Canny and Laplace
